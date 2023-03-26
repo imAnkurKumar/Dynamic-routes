@@ -1,1 +1,16 @@
-[{"id":"12345","title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"},{"title":"Book2","imageUrl":"","description":"Book","price":"25","id":"0.33336175196262885"},{"title":"Book3","imageUrl":"","description":"","price":"26","id":"0.1002727801214569"}]
+[
+  {
+    "title": "Book1",
+    "imageUrl": "https://images.pexels.com/photos/2228586/pexels-photo-2228586.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Another amazing book",
+    "price": "30",
+    "id": "0.42127405723874833"
+  },
+  {
+    "title": "Book2",
+    "imageUrl": "https://images.pexels.com/photos/2228582/pexels-photo-2228582.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "An amazing book",
+    "price": "85",
+    "id": "0.632878068254694"
+  }
+]
