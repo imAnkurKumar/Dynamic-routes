@@ -1,16 +1,1 @@
-[
-  {
-    "title": "Book1",
-    "imageUrl": "https://images.pexels.com/photos/2228586/pexels-photo-2228586.jpeg?auto=compress&cs=tinysrgb&w=600",
-    "description": "Another amazing book",
-    "price": "30",
-    "id": "0.42127405723874833"
-  },
-  {
-    "title": "Book2",
-    "imageUrl": "https://images.pexels.com/photos/2228582/pexels-photo-2228582.jpeg?auto=compress&cs=tinysrgb&w=600",
-    "description": "An amazing book",
-    "price": "85",
-    "id": "0.632878068254694"
-  }
-]
+[{"id":"0.13192765575038123","title":"a Book","imageUrl":"https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=600","description":"aaaaaaaaaaaaaaaaaaaa","price":"45"}]
